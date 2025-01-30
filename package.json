@@ -1,6 +1,6 @@
 {
   "name": "@roninbuilders/contracts",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Ronin Network Contracts",
   "main": "dist/index.cjs",
   "types": "dist/index.d.ts",
